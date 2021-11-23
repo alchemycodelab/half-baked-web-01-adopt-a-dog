@@ -1,4 +1,4 @@
-# Deliverable 05 - Supabase Dog Adoption App
+# Supabase Dog Adoption App
 
 [Buggy Supabase Adopt a Dog](https://github.com/alchemycodelab/buggy-js-adopt-a-dog)
 
