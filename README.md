@@ -11,8 +11,6 @@
 ### Live Example:
 https://alchemycodelab.github.io/js-adopt-a-dog/
 
-<img src="https://raw.githubusercontent.com/alchemycodelab/half-baked-js-adopt-a-dog/main/assets/adopt-a-dog-list.png" width="1000" height="560" />
-<img src="https://raw.githubusercontent.com/alchemycodelab/half-baked-js-adopt-a-dog/main/assets/adopt-a-dog-detail.png" width="1000" height="560" />
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |
