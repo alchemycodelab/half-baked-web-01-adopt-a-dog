@@ -11,9 +11,8 @@
 ### Live Example:
 https://alchemycodelab.github.io/js-adopt-a-dog/
 
-![](assets/adopt-a-dog-detail.png)
-![](assets/adopt-a-dog-list.png)
-
+![](https://github.com/alchemycodelab/half-baked-js-adopt-a-dog/blob/main/assets/adopt-a-dog-list.png)
+![](https://github.com/alchemycodelab/half-baked-js-adopt-a-dog/blob/main/assets/adopt-a-dog-detail.png)
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |
