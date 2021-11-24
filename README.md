@@ -1,18 +1,18 @@
 # Supabase Dog Adoption App
 
-[Buggy Supabase Adopt a Dog](https://github.com/alchemycodelab/buggy-js-adopt-a-dog)
-
 ## Learning Objectives
 - Draw a simple architecture diagram describing the relationship between a user's computer and a single RESTful API.
 - On load, use fetch and .then to hit a GET endpoint, get all items, and set state and update the view using the response.
 - In front end apps with asynchronous behavior, use the network tab to examine (and debug) the request being sent to a server and the response received from a server.
 - Predict the order of function calls when using Promises
 
+[Buggy Supabase Adopt a Dog](https://github.com/alchemycodelab/buggy-js-adopt-a-dog)
+
 ### Live Example:
 https://alchemycodelab.github.io/js-adopt-a-dog/
 
-![](./assets/adopt-a-dog-detail.png)
-![](./assets/adopt-a-dog-list.png)
+![](assets/adopt-a-dog-detail.png)
+![](assets/adopt-a-dog-list.png)
 
 
 | User should be able to . . .                                                         |             |
