@@ -19,14 +19,14 @@ https://alchemycodelab.github.io/js-adopt-a-dog/
 
 | Events                                                                                |             |
 | :----------------------------------------------------------------------------------- | ----------: |
-| On load on the home page, see a list of dogs (names and breed image), fetched from supabase                               |        1 |
-| On clicking a dog, user should be taken to that dog's detail page.  | 1 |
+| On load on the home page, see a list of dogs (names and breed image), fetched from supabase                               |        2 |
+| On clicking a dog, user should be taken to that dog's detail page.  | 2 |
 | Detail page should get the id from the URL and use that id to fetch that dog from supabase.                                      |        1 |
 | Detail page should show the user details about the dog (including age, breed, and description) |     1 |
 
 | Functions                                                                                |             |
 | :----------------------------------------------------------------------------------- | ----------: |
-| PURE: `renderDogCard(dog)` : return DOM node |1|
-| IMPURE: `renderDogDetail(dog)` : return DOM node |1|
+| PURE with TDD: `renderDogCard(dog)` : return DOM node |1|
+| PURE with TDD: `renderDogDetail(dog)` : return DOM node |1|
 | ASYNC: `fetchDogs()` : return array of dogs from supabase |1|
 | ASYNC: `fetchDog(id)` : return single dog from supabase |1|
