@@ -20,7 +20,7 @@ https://alchemycodelab.github.io/js-adopt-a-dog/
 | Events                                                                                |             |
 | :----------------------------------------------------------------------------------- | ----------: |
 | On load on the home page, see a list of dogs (names and breed image), fetched from supabase                               |        2 |
-| On clicking a dog, user should be taken to that dog's detail page.  | 2 |
+| On clicking a dog, user should be taken to that dog's detail page.  | 1 |
 | Detail page should get the id from the URL and use that id to fetch that dog from supabase.                                      |        1 |
 | Detail page should show the user details about the dog (including age, breed, and description) |     1 |
 
