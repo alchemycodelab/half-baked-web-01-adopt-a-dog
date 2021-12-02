@@ -9,7 +9,7 @@
 [Buggy Supabase Adopt a Dog](https://github.com/alchemycodelab/buggy-js-adopt-a-dog)
 
 ### Live Example:
-https://alchemycodelab.github.io/js-adopt-a-dog/
+https://alchemycodelab.github.io/web-01-adopt-a-dog/
 
 
 | User should be able to . . .                                                         |             |
