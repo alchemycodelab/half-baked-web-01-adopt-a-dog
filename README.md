@@ -26,7 +26,7 @@ https://alchemycodelab.github.io/web-01-adopt-a-dog/
 
 | Functions                                                                                |             |
 | :----------------------------------------------------------------------------------- | ----------: |
-| PURE with TDD: `renderDogCard(dog)` : return DOM node |1|
-| PURE with TDD: `renderDogDetail(dog)` : return DOM node |1|
+| PURE: `renderDogCard(dog)` : return DOM node |1|
+| PURE: `renderDogDetail(dog)` : return DOM node |1|
 | ASYNC: `fetchDogs()` : return array of dogs from supabase |1|
 | ASYNC: `fetchDog(id)` : return single dog from supabase |1|
