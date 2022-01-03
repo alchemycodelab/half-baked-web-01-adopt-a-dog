@@ -8,6 +8,11 @@
 
 [Buggy Supabase Adopt a Dog](https://github.com/alchemycodelab/buggy-js-adopt-a-dog)
 
+
+Here is the model for the `dogs` table
+
+![](./dogs-model.png)
+
 ### Live Example:
 https://alchemycodelab.github.io/web-01-adopt-a-dog/
 
