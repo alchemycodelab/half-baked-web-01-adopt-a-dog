@@ -1,5 +1,7 @@
 # Supabase Dog Adoption App
 
+Use [this template](https://github.com/alchemycodelab/half-baked-web-01-adopt-a-dog) for this deliverable.
+
 ## Learning Objectives
 
 - Draw a simple architecture diagram describing the relationship between a user's computer and a single RESTful API.
