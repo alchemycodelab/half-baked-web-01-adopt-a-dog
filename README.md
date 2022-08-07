@@ -4,9 +4,9 @@ Use [this template](https://github.com/alchemycodelab/half-baked-web-01-adopt-a-
 
 ## Learning Objectives
 
-- Draw a simple architecture diagram describing the relationship between a user's computer and a single RESTful API.
-- On load, use fetch and .then to hit a GET endpoint, get all items, and set state and update the view using the response.
-- In front end apps with asynchronous behavior, use the network tab to examine (and debug) the request being sent to a server and the response received from a server.
+-   Draw a simple architecture diagram describing the relationship between a user's computer and a single RESTful API.
+-   On load, use fetch and async/await to hit a GET endpoint, get all items, and set state and update the view using the response.
+-   In front end apps with asynchronous behavior, use the network tab to examine (and debug) the request being sent to a server and the response received from a server.
 
 Here is the model for the `dogs` table
 
@@ -14,7 +14,7 @@ Here is the model for the `dogs` table
 
 ### Live Example:
 
-https://alchemycodelab.github.io/web-01-adopt-a-dog/
+https://web-adopt-a-dog.netlify.app
 
 ### Description
 

@@ -8,8 +8,8 @@ export function renderDogCard(dog) {
 
     p.textContent = dog.name;
     img.src = `./assets/${dog.breed}.jpeg`;
-    a.href = '' // link to the dog's detail page here
-    
+    a.href = ''; // link to the dog's detail page here
+
     div.append(p, img);
 
     a.append(div);
@@ -34,7 +34,7 @@ export function renderDogDetail(dog) {
     descriptionEl.textContent = dog.description;
     descriptionEl.classList.add('description');
 
-    ageEl.textContent = `${dog.age} years old`;    
+    ageEl.textContent = `${dog.age} years old`;
     ageEl.classList.add('age');
 
     breedEl.textContent = dog.breed;
@@ -45,9 +45,8 @@ export function renderDogDetail(dog) {
     ageAndBreedEl.append(ageEl, breedEl);
 
     img.src = `../assets/${dog.breed}.jpeg`;
-    
+
     div.append(nameEl, img, ageAndBreedEl, descriptionEl);
 
     return div;
-
 }
