@@ -14,7 +14,7 @@ Here is the model for the `dogs` table
 
 ### Live Example:
 
-https://web-adopt-a-dog.netlify.app
+https://alchemycodelab.github.io/web-01-adopt-a-dog/
 
 ### Description
 
