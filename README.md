@@ -10,7 +10,7 @@ Use [this template](https://github.com/alchemycodelab/half-baked-web-01-adopt-a-
 
 Here is the model for the `dogs` table
 
-![](./dogs-model.png)
+![model of dogs table](./dogs-model.png)
 
 ### Live Example:
 
@@ -20,15 +20,20 @@ https://alchemycodelab.github.io/web-01-adopt-a-dog/
 
 For this deliverable you have been given a supabase database and some render functions. Your job is to add the code in `fetch-utils.js`, `app.js` and `detail.js` to render the list of animals and the details page.
 
-| Task                                                                                           | Points |
+## Rubric
+
+The following is required for your assignment to be graded:
+
+-   PR open from `dev` to `main`
+-   PR Passes CI (lint + tests)
+-   PR preview on netlify
+-   At least 4 commits, for each working feature
+
+| Tasks...                                                                                       | **10** |
 | ---------------------------------------------------------------------------------------------- | ------ |
-| ** Deploy Requirements **                                                                      |        |
-| Main branch deployed to Netlify                                                                | 1      |
-| Open PR from `dev` branch with Netlify deploy preview                                          | 1      |
-| ** Code Requirements **                                                                        |        |
-| ASYNC: `getDogs()` : return array of dogs from supabase                                      | 2      |
-| On load on the home page, see a list of dogs (names and breed image), fetched from supabase    | 1      |
-| On clicking a dog, user should be taken to that dog's detail page.                             | 1      |
-| ASYNC: `getDog(id)` : return single dog from supabase                                        | 2      |
-| Detail page should get the id from the URL and use that id to fetch that dog from supabase.    | 1      |
-| Detail page should show the user details about the dog (including age, breed, and description) | 1      |
+| ASYNC: `getDogs()` : return array of dogs from supabase                                        | 2      |
+| On load on the home page, see a list of dogs (names and breed image), fetched from supabase    | 2      |
+| On clicking a dog, user should be taken to that dog's detail page.                             | 2      |
+| ASYNC: `getDog(id)` : return single dog from supabase                                          | 2      |
+| Detail page should get the id from the URL and use that id to fetch that dog from supabase.    | 2      |
+| Detail page should show the user details about the dog (including age, breed, and description) | 2      |
