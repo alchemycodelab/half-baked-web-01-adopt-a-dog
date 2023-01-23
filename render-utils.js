@@ -26,7 +26,7 @@ export function renderDogDetail(dog) {
     const breedEl = document.createElement('p');
     const ageAndBreedEl = document.createElement('div');
 
-    // examine the css classes already written and finish writing a detail page using the above elements
+    // examine the css classes already written and finish writing a render function for the detail page using the above elements
 
     return div;
 }
