@@ -10,7 +10,7 @@ Use [this template](https://github.com/alchemycodelab/half-baked-web-01-adopt-a-
 
 Here is the model for the `dogs` table
 
-![model of dogs table](./Screenshot 2023-01-23 at 10.15.53 AM.png)
+![model of dogs table](./data-model.png)
 
 ## Joining Tables
 
