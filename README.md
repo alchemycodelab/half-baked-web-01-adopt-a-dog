@@ -10,7 +10,27 @@ Use [this template](https://github.com/alchemycodelab/half-baked-web-01-adopt-a-
 
 Here is the model for the `dogs` table
 
-![model of dogs table](./dogs-model.png)
+![model of dogs table](./Screenshot 2023-01-23 at 10.15.53 AM.png)
+
+## Joining Tables
+
+```js
+// here's an example using tabletop games instead of dogs
+export async function getGameById(id) {
+    const { data, error } = await client
+        .from('tabletop_games')
+        .select(`
+            *,
+            designers (name)
+          `)
+        .eq('id', id)
+        .single();
+
+    if (error) console.error(error);
+
+    return data;
+}
+```
 
 ### Live Example:
 
