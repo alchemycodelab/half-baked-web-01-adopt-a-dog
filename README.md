@@ -18,7 +18,7 @@ https://alchemycodelab.github.io/web-01-adopt-a-dog/
 
 ### Description
 
-For this deliverable you have been given a supabase database and some render functions. Your job is to add the code in `fetch-utils.js`, `app.js` and `detail.js` to render the list of animals and the details page.
+For this deliverable you have been given a supabase database and some render functions. Your job is to add the code in `fetch-utils.js`, `render-utils.js`, `app.js` and `detail.js` to render the list of animals and the details page.
 
 ## Rubric
 
