@@ -14,7 +14,7 @@ Here is the model for the `dogs` table
 
 ## Joining Tables
 
-Note that the `breeds` for all dogs live in a `breeds` table, joined using `breed_id` on the dog.
+Note that the `dog_breeds` for all dogs live in a `dog_breeds` table, joined using `breed_id` on the dog.
 
 ```js
 // here's an example using tabletop games instead of dogs
